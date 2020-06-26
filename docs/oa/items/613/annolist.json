@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_uparl/master/docs/oa/items/613/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/uparl/omeka/oa/items/14954/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167801/canvas/p5",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=447,434,2851,5336"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3297.7485,5769.65584h-1425.61853v0h-1425.61853v-2667.76053v-2667.76053h1425.61853h1425.61853v2667.76053z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ece925c1-0d79-4cc4-9bb1-360916f69880\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://raw.githubusercontent.com/nakamura196/omekac_uparl/master/docs/oa/items/613/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\">戲鴻堂法書-01-02@東京大学</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}

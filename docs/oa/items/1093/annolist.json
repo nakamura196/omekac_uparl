@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_uparl/master/docs/oa/items/1093/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/uparl/omeka/oa/items/14801/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167816/canvas/p23",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3275,422,2790,5372"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6064.89651,5794.25271h-1394.87244v0h-1394.87244v-2686.20818v-2686.20818h1394.87244h1394.87244v2686.20818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_053d8cc5-75b5-4e28-8da7-4d93871ac4c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://raw.githubusercontent.com/nakamura196/omekac_uparl/master/docs/oa/items/1093/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p><span style=\"font-size: 10pt; font-family: Arial;\" data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;戲鴻堂法書-16-27&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:[null,0],&quot;12&quot;:0}\">戲鴻堂法書-16-27@東京大学</span></p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/uparl/omeka/oa/items/14958/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167816/canvas/p23",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=410,397,1486,5348"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1895.72684,5745.05897h-743.05535v0h-743.05535v-2673.90975v-2673.90975h743.05535h743.05535v2673.90975z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_639e85e4-0a2d-4fb3-be9c-ebedf1d56fc0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/uparl/omeka/oa/items/1093/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\" dir=\"ltr\">\n<div class=\"\">戲鴻堂法書-16-29@東京大学</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}
